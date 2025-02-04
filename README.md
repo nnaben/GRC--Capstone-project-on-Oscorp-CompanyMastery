@@ -2,26 +2,26 @@
 # Findings After Assessment Are As Follows:
 
 # Current Oscorp cyber security team:
-  • Cyber security analyst: generalist, responds to cyber incidents as they come. Reports
+  Cyber security analyst: generalist, responds to cyber incidents as they come. Reports
   to Oscorp’s IT manager.
-  • Network engineer: manages the firewalls. Reports to the Network Team Leader.
-  • Cyber Security Consultant: your new role it Oscorp. You will initially report to the IT
+  Network engineer: manages the firewalls. Reports to the Network Team Leader.
+  Cyber Security Consultant: your new role it Oscorp. You will initially report to the IT
   manager.
   
 # Oscorp Current Cyber Security Controls:
-  • Organisational governance:
-    i. CEO has a clear business strategy for the business. However, roles and
+  Organisational governance:
+  CEO has a clear business strategy for the business. However, roles and
     responsibilities for cyber security haven’t been defined. They’re assigned to
     the IT team. There is no cyber security strategy.
     
-  • Asset Management:
-    i. The IT team has a spreadsheet with serial numbers of laptops.
-    ii. The spreadsheet includes the model of each machine and details about the
+ Asset Management:
+    The IT team has a spreadsheet with serial numbers of laptops.
+    The spreadsheet includes the model of each machine and details about the
     warranty.
-    iii. Oscorp uses MicrosoK Office365 and relies exclusively on Software-as-a-
+    Oscorp uses MicrosoK Office365 and relies exclusively on Software-as-a-
     Service applicaDons.
-    iv. All data is in Microsoft Azure cloud
-    v. The IT team uses a Secure Operating Environment (SOE) to image all their
+    All data is in Microsoft Azure cloud
+    The IT team uses a Secure Operating Environment (SOE) to image all their
     laptops with the latest Windows desktop version
     
   • Business Contnnuity and Disaster Recovery:
