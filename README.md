@@ -19,7 +19,7 @@
     The spreadsheet includes the model of each machine and details about the
     warranty.
     Oscorp uses MicrosoK Office365 and relies exclusively on Software-as-a-
-    Service applicaDons.
+    Service applications.
     All data is in Microsoft Azure cloud
     The IT team uses a Secure Operating Environment (SOE) to image all their
     laptops with the latest Windows desktop version
