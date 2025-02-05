@@ -92,48 +92,48 @@ The recommendations should be prioritised in order of importance.
 # Key Areas of Improvements:
 - Cyber Security Governance:
 - Hire a Cyber security manager or a Chief informa1on security manager.
-- Formalise cyber security roles and responsibili1es. Ensure that the board of the
+- Formalise cyber security roles and responsibilities. Ensure that the board of the
   directors are awareness of their information security du1es
- - DraI a comprehensive informa1on security policy. Endorse the policy by senior
+ - Draft a comprehensive informa1on security policy. Endorse the policy by senior
   management.
  - Invest in hiring cyber security professionals to establish and manage a cyber
   security practice.
 Asset Management:
  - Identify and classify all assets based on criticality and sensitivity
  - Conduct periodic reviews to ensure the CMDB is accurate and up to date
-Third Part risk management:
- - Create a process to iden1ty and manage third party suppliers. The process should
+Third Party risk management:
+ - Create a process to identify and manage third party suppliers. The process should
   start by identifying suppliers, classifying suppliers, and conducting periodic
   security assessments on third party suppliers
 Cyber Security Risk Management:
  - Create a process to assess and manage cyber security risks.
  - The process should prioritise risks based on criticality and impact to the business.
- - The process should be endorsed by the audit and risk commiNee and the current
+ - The process should be endorsed by the audit and risk committee and the current
   risk management team
  -  Create a cyber security risk register to document all cyber security risks
  - Recommend an internal audit program to include cyber security in the scope
-Iden1ty and Access Management:
- - Implement and roll-out two factor authentcation across the organisa1on as a
+Identity and Access Management:
+ - Implement and roll-out two factor authentcation across the organisation as a
   priority
  -  Follow the principle of least privileges and separa1on of du1es across the
-  organisa1on
+  organisation
  - Review admin users, eliminate sharing of admin passwords and implement a role
   based access control
  - Conduct regular user access reviews to ensure that access management
   principles are consistently followed
-Security Educa1on and Awareness:
+Security Education and Awareness:
  - Employees should undergo security training at least once every 12 months
-  • Consider running simulated phishing aNacks to further improve awareness
+ - Consider running simulated phishing aNacks to further improve awareness
 Data Security and DLP:
-  • Undertake a data discovery ac1vity. Classify and label data based on sensi1vity
+   - Undertake a data discovery activity. Classify and label data based on sensitivity
   and cri1cality.
-  • Utilise Microsoft Azure AIP to label data
-  • Consider implementing a DLP soluton. A Microsoft DLP solution might be the
+  - Utilise Microsoft Azure AIP to label data
+  - Consider implementing a DLP soluton. A Microsoft DLP solution might be the
   best solution as the environment uses Microsoft products.
-  • Block USB flash drive usage. Only allow it (temporarily) when there is a business
-  justifica1on.
+  - Block USB flash drive usage. Only allow it (temporarily) when there is a business
+  justification.
 Detection and Response:
-  • Invest in a SIEM solution. This could be using a Managed Security Service
+  - Invest in a SIEM solution. This could be using a Managed Security Service
   Provider (MSSP) or in house. Detecting cyber security incidents is a priority.
-  • Create an enterprise-wide cyber security incident response plan and at least 5x
+  - Create an enterprise-wide cyber security incident response plan and at least 5x
   cyber security incident response plans for the most common attack types.
