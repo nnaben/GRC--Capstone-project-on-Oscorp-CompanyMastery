@@ -43,23 +43,23 @@
     - Oscorp doesn’t perform any third-party risk management.
     - Contracts are reviewed by procurement and finance, not IT.
     
-  • Identity and Access Management:
+  Identity and Access Management:
   -   Oscorp uses MicrosoK Active Directory to manage users and groups
-    - There is no privileged access management soluDon in place
-    - Admin account password is shared with a few senior members of the IT team
-    - Access to resources is granted upon request
-    - The organisaDon does not use two-factor authenDcaDon for login
-    - Complex login passwords are used
-    - Employees use a VPN soluDon to login remotely when required
+  -   There is no privileged access management soluDon in place
+  -   Admin account password is shared with a few senior members of the IT team
+  -   Access to resources is granted upon request
+  -   The organisaDon does not use two-factor authenDcaDon for login
+  -   Complex login passwords are used
+  -   Employees use a VPN soluDon to login remotely when required
     
-  • Network security:
-    - The organisation has Palo Alto Next Gen firewalls.
-    - The firewalls have been configured by the network
-    - The firewalls get audited every year by the network team
-    - The firewalls get regular updates
-    - The IT team have up to date network diagrams. The diagrams include the
+  Network security:
+  -  The organisation has Palo Alto Next Gen firewalls.
+  -  The firewalls have been configured by the network
+  -  The firewalls get audited every year by the network team
+  -  The firewalls get regular updates
+  -  The IT team have up to date network diagrams. The diagrams include the
     cloud the environment.
-    - The network is segmented using VLANs.
+  -  The network is segmented using VLANs.
     
   • Physical Security:
     - Oscorp is a highly secure facility, with state-of-the-art CCTV cameras
