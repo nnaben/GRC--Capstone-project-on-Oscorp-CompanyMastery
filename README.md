@@ -18,7 +18,7 @@
    - The IT team has a spreadsheet with serial numbers of laptops.
    - The spreadsheet includes the model of each machine and details about the
     warranty.
-   - Oscorp uses MicrosoK Office365 and relies exclusively on Software-as-a-
+   - Oscorp uses Microsoft Office365 and relies exclusively on Software-as-a-
     Service applications.
    - All data is in Microsoft Azure cloud
    - The IT team uses a Secure Operating Environment (SOE) to image all their
@@ -43,7 +43,7 @@
     - Oscorp doesn’t perform any third-party risk management.
     - Contracts are reviewed by procurement and finance, not IT.
     
-  • IdenDty and Access Management:
+  • Identity and Access Management:
     - Oscorp uses MicrosoK Active Directory to manage users and groups
     - There is no privileged access management soluDon in place
     - Admin account password is shared with a few senior members of the IT team
@@ -90,39 +90,39 @@ The following are a set of recommendation based on the NIST assessment that you
 conducted.
 The recommendations should be prioritised in order of importance.
 # Key Areas of Improvements:
--• Cyber Security Governance:
- - • Hire a Cyber security manager or a Chief informa1on security manager.
-  - • Formalise cyber security roles and responsibili1es. Ensure that the board of the
+- Cyber Security Governance:
+- Hire a Cyber security manager or a Chief informa1on security manager.
+- Formalise cyber security roles and responsibili1es. Ensure that the board of the
   directors are awareness of their information security du1es
-  -• DraI a comprehensive informa1on security policy. Endorse the policy by senior
+ - DraI a comprehensive informa1on security policy. Endorse the policy by senior
   management.
-  • Invest in hiring cyber security professionals to establish and manage a cyber
+ - Invest in hiring cyber security professionals to establish and manage a cyber
   security practice.
 Asset Management:
-  • Identify and classify all assets based on criticality and sensitivity
-  • Conduct periodic reviews to ensure the CMDB is accurate and up to date
+ - Identify and classify all assets based on criticality and sensitivity
+ - Conduct periodic reviews to ensure the CMDB is accurate and up to date
 Third Part risk management:
-  • Create a process to iden1ty and manage third party suppliers. The process should
+ - Create a process to iden1ty and manage third party suppliers. The process should
   start by identifying suppliers, classifying suppliers, and conducting periodic
   security assessments on third party suppliers
 Cyber Security Risk Management:
-  • Create a process to assess and manage cyber security risks.
-  • The process should prioritise risks based on criticality and impact to the business.
-  • The process should be endorsed by the audit and risk commiNee and the current
+ - Create a process to assess and manage cyber security risks.
+ - The process should prioritise risks based on criticality and impact to the business.
+ - The process should be endorsed by the audit and risk commiNee and the current
   risk management team
-  • Create a cyber security risk register to document all cyber security risks
-  • Recommend an internal audit program to include cyber security in the scope
+ -  Create a cyber security risk register to document all cyber security risks
+ - Recommend an internal audit program to include cyber security in the scope
 Iden1ty and Access Management:
-  • Implement and roll-out two factor authentcation across the organisa1on as a
+ - Implement and roll-out two factor authentcation across the organisa1on as a
   priority
-  • Follow the principle of least privileges and separa1on of du1es across the
+ -  Follow the principle of least privileges and separa1on of du1es across the
   organisa1on
-  • Review admin users, eliminate sharing of admin passwords and implement a role
+ - Review admin users, eliminate sharing of admin passwords and implement a role
   based access control
-  • Conduct regular user access reviews to ensure that access management
+ - Conduct regular user access reviews to ensure that access management
   principles are consistently followed
 Security Educa1on and Awareness:
-  • Employees should undergo security training at least once every 12 months
+ - Employees should undergo security training at least once every 12 months
   • Consider running simulated phishing aNacks to further improve awareness
 Data Security and DLP:
   • Undertake a data discovery ac1vity. Classify and label data based on sensi1vity
