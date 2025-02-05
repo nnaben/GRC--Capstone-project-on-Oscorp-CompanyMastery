@@ -10,79 +10,79 @@
   
 # Oscorp Current Cyber Security Controls:
   Organisational governance:
-  CEO has a clear business strategy for the business. However, roles and
+  - CEO has a clear business strategy for the business. However, roles and
     responsibilities for cyber security haven’t been defined. They’re assigned to
     the IT team. There is no cyber security strategy.
     
  Asset Management:
-    The IT team has a spreadsheet with serial numbers of laptops.
-    The spreadsheet includes the model of each machine and details about the
+   - The IT team has a spreadsheet with serial numbers of laptops.
+   - The spreadsheet includes the model of each machine and details about the
     warranty.
-    Oscorp uses MicrosoK Office365 and relies exclusively on Software-as-a-
+   - Oscorp uses MicrosoK Office365 and relies exclusively on Software-as-a-
     Service applications.
-    All data is in Microsoft Azure cloud
-    The IT team uses a Secure Operating Environment (SOE) to image all their
+   - All data is in Microsoft Azure cloud
+   - The IT team uses a Secure Operating Environment (SOE) to image all their
     laptops with the latest Windows desktop version
     
   • Business Contnnuity and Disaster Recovery:
-    o The IT team conducts regular disaster recovery testing
-    o The IT team has clear and documented business continuity plans
-    o The IT team takes regular backups. Backups get tested periodically
+    - The IT team conducts regular disaster recovery testing
+    - The IT team has clear and documented business continuity plans
+    - The IT team takes regular backups. Backups get tested periodically
     
   • Vulnerability management:
-    o Oscorp have purchased Qualys vulnerability scanner.
-    o The IT team uses Qualys on an ad-hoc basis.
-    o There is no formal vulnerability management program in place.
-    o Large number of high and severe vulnerabilities reported by Qualys
+    - Oscorp have purchased Qualys vulnerability scanner.
+    - The IT team uses Qualys on an ad-hoc basis.
+    - There is no formal vulnerability management program in place.
+    - Large number of high and severe vulnerabilities reported by Qualys
     
   • Risk management:
-    o Oscorp has a risk team that performs financial risk acDviDes.
-    o There is no technology or cyber risk process at Oscorp.
+    - Oscorp has a risk team that performs financial risk acDviDes.
+    - There is no technology or cyber risk process at Oscorp.
     
   • Third Party Risk Management:
-    o Oscorp doesn’t perform any third-party risk management.
-    o Contracts are reviewed by procurement and finance, not IT.
+    - Oscorp doesn’t perform any third-party risk management.
+    - Contracts are reviewed by procurement and finance, not IT.
     
   • IdenDty and Access Management:
-    o Oscorp uses MicrosoK Active Directory to manage users and groups
-    o There is no privileged access management soluDon in place
-    o Admin account password is shared with a few senior members of the IT team
-    o Access to resources is granted upon request
-    o The organisaDon does not use two-factor authenDcaDon for login
-    o Complex login passwords are used
-    o Employees use a VPN soluDon to login remotely when required
+    - Oscorp uses MicrosoK Active Directory to manage users and groups
+    - There is no privileged access management soluDon in place
+    - Admin account password is shared with a few senior members of the IT team
+    - Access to resources is granted upon request
+    - The organisaDon does not use two-factor authenDcaDon for login
+    - Complex login passwords are used
+    - Employees use a VPN soluDon to login remotely when required
     
   • Network security:
-    o The organisation has Palo Alto Next Gen firewalls.
-    o The firewalls have been configured by the network
-    o The firewalls get audited every year by the network team
-    o The firewalls get regular updates
-    o The IT team have up to date network diagrams. The diagrams include the
+    - The organisation has Palo Alto Next Gen firewalls.
+    - The firewalls have been configured by the network
+    - The firewalls get audited every year by the network team
+    - The firewalls get regular updates
+    - The IT team have up to date network diagrams. The diagrams include the
     cloud the environment.
-    o The network is segmented using VLANs.
+    - The network is segmented using VLANs.
     
   • Physical Security:
-    o Oscorp is a highly secure facility, with state-of-the-art CCTV cameras
+    - Oscorp is a highly secure facility, with state-of-the-art CCTV cameras
     everywhere
-    o Oscorp takes physical very seriously
-    o They do extensive vetting for all their employees
-    o The have a 24/7 monitoring for their research labs and physical facilities
+    - Oscorp takes physical very seriously
+    - They do extensive vetting for all their employees
+    - The have a 24/7 monitoring for their research labs and physical facilities
     
   • Data Security:
-    o Oscorp doesn’t have a DLP soluDon
-    o All data resides in Microsoft Azure cloud and Microsoft Office 365
-    o Key critical application is a SaaS service from Horizon Labs.
+    - Oscorp doesn’t have a DLP soluDon
+    - All data resides in Microsoft Azure cloud and Microsoft Office 365
+    - Key critical application is a SaaS service from Horizon Labs.
     
   • Policy:
-    o There is one generic IT policy in place
-    o No formal informaDon security policy
-    o There is no data governance policies or informaDon classificaDon
+    - There is one generic IT policy in place
+    - No formal informaDon security policy
+    - There is no data governance policies or informaDon classificaDon
   • Cyber Security detection and response:
-    o There is no detecDon or response capability
-    o The IT team responds to alerts from the anD-virus (Microsoft Defender)
-    o No SIEM in place
+    - There is no detecDon or response capability
+    - The IT team responds to alerts from the anD-virus (Microsoft Defender)
+    - No SIEM in place
   • Security Education and Awareness:
-    o All employees are required to do an inducDon web training module. The
+    - All employees are required to do an inducDon web training module. The
     module includes basic instrucDons about cyber security.
 
 # Capstone-Project-Solution: RECOMMENDATIONS:
@@ -90,11 +90,11 @@ The following are a set of recommendation based on the NIST assessment that you
 conducted.
 The recommendations should be prioritised in order of importance.
 # Key Areas of Improvements:
-  • Cyber Security Governance:
-  • Hire a Cyber security manager or a Chief informa1on security manager.
-  • Formalise cyber security roles and responsibili1es. Ensure that the board of the
+-• Cyber Security Governance:
+ - • Hire a Cyber security manager or a Chief informa1on security manager.
+  - • Formalise cyber security roles and responsibili1es. Ensure that the board of the
   directors are awareness of their information security du1es
-  • DraI a comprehensive informa1on security policy. Endorse the policy by senior
+  -• DraI a comprehensive informa1on security policy. Endorse the policy by senior
   management.
   • Invest in hiring cyber security professionals to establish and manage a cyber
   security practice.
