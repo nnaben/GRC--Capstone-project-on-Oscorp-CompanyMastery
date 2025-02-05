@@ -44,7 +44,7 @@
     - Contracts are reviewed by procurement and finance, not IT.
     
   • Identity and Access Management:
-    - Oscorp uses MicrosoK Active Directory to manage users and groups
+  -   Oscorp uses MicrosoK Active Directory to manage users and groups
     - There is no privileged access management soluDon in place
     - Admin account password is shared with a few senior members of the IT team
     - Access to resources is granted upon request
