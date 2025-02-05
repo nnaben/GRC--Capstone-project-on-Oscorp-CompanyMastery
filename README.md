@@ -14,7 +14,7 @@
     responsibilities for cyber security haven’t been defined. They’re assigned to
     the IT team. There is no cyber security strategy.
     
- Asset Management:
+## Asset Management:
    - The IT team has a spreadsheet with serial numbers of laptops.
    - The spreadsheet includes the model of each machine and details about the
     warranty.
@@ -24,18 +24,18 @@
    - The IT team uses a Secure Operating Environment (SOE) to image all their
     laptops with the latest Windows desktop version
     
-  • Business Contnnuity and Disaster Recovery:
+ ## Business Contnnuity and Disaster Recovery:
     - The IT team conducts regular disaster recovery testing
     - The IT team has clear and documented business continuity plans
     - The IT team takes regular backups. Backups get tested periodically
     
-  • Vulnerability management:
+  Vulnerability management:
     - Oscorp have purchased Qualys vulnerability scanner.
     - The IT team uses Qualys on an ad-hoc basis.
     - There is no formal vulnerability management program in place.
     - Large number of high and severe vulnerabilities reported by Qualys
     
-  • Risk management:
+  Risk management:
     - Oscorp has a risk team that performs financial risk acDviDes.
     - There is no technology or cyber risk process at Oscorp.
     
