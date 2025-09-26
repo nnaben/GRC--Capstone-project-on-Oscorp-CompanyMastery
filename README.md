@@ -124,7 +124,6 @@ The recommendations should be prioritised in order of importance.
     - Block USB flash drive usage. Only allow it (temporarily) when there is a business justification.
 
 ## Detection and Response:
-    - Invest in a SIEM solution. This could be using a Managed Security Service
-  Provider (MSSP) or in house. Detecting cyber security incidents is a priority.
-    - Create an enterprise-wide cyber security incident response plan and at least 5x
-  cyber security incident response plans for the most common attack types.
+   - Invest in a SIEM solution: This could be using a Managed Security Service Provider (MSSP) or in house.
+   - Detecting cyber security incidents is a priority.
+   - Create an enterprise-wide cyber security incident response plan and at least 5x cyber security incident response plans for the most common attack types.
