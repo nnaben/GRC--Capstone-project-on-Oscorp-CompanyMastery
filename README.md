@@ -1,11 +1,11 @@
 # GRC--CAPSTONE-PROJECT-ON-OSCORP-COMPANY
-## Findings After Assessment Are As Follows:
+## Assessment And Findings:
 
 ## Current Oscorp cyber security team:
-  Cyber security analyst: generalist, responds to cyber incidents as they come. Reports
+ ** Cyber security analyst**: generally, responds to cyber incidents as they come and reports
   to Oscorp’s IT manager.
-  Network engineer: manages the firewalls. Reports to the Network Team Leader.
-  Cyber Security Consultant: your new role it Oscorp. You will initially report to the IT
+ ** Network engineer**: manages the firewalls and reports to the Network Team Leader.
+  **Cyber Security Consultant**: My new role in Oscorp. I will initially report to the IT
   manager.
   
 ## Oscorp Current Cyber Security Controls:
@@ -36,7 +36,7 @@
     - Large number of high and severe vulnerabilities reported by Qualys
     
  ## Risk management:
-    - Oscorp has a risk team that performs financial risk acDviDes.
+    - Oscorp has a risk team that performs financial risk actvites.
     - There is no technology or cyber risk process at Oscorp.
     
   ## Third Party Risk Management:
@@ -45,15 +45,15 @@
     
   ## Identity and Access Management:
     -   Oscorp uses MicrosoK Active Directory to manage users and groups
-    -   There is no privileged access management soluDon in place
+    -   There is no privileged access management solution in place
     -   Admin account password is shared with a few senior members of the IT team
     -   Access to resources is granted upon request
-    -   The organisaDon does not use two-factor authenDcaDon for login
+    -   The organisation does not use two-factor authentcation for login
     -   Complex login passwords are used
     -   Employees use a VPN soluDon to login remotely when required
     
  ## Network security:
-    -  The organisation has Palo Alto Next Gen firewalls.
+    -  The organisation has Palo Alto Next-Gen firewalls.
     -  The firewalls have been configured by the network
     -  The firewalls get audited every year by the network team
     -  The firewalls get regular updates
@@ -64,26 +64,26 @@
   ## Physical Security:
     - Oscorp is a highly secure facility, with state-of-the-art CCTV cameras
     everywhere
-    - Oscorp takes physical very seriously
+    - Oscorp takes physical security very seriously
     - They do extensive vetting for all their employees
     - The have a 24/7 monitoring for their research labs and physical facilities
     
   ## Data Security:
-    - Oscorp doesn’t have a DLP soluDon
+    - Oscorp doesn’t have a DLP solution
     - All data resides in Microsoft Azure cloud and Microsoft Office 365
     - Key critical application is a SaaS service from Horizon Labs.
     
   ## Policy:
     - There is one generic IT policy in place
-    - No formal informaDon security policy
-    - There is no data governance policies or informaDon classificaDon
+    - No formal information security policy
+    - There is no data governance policies or information classification
   ## Cyber Security detection and response:
-    - There is no detecDon or response capability
+    - There is no detection or response capability
     - The IT team responds to alerts from the anD-virus (Microsoft Defender)
     - No SIEM in place
   ## Security Education and Awareness:
-    - All employees are required to do an inducDon web training module. The
-    module includes basic instrucDons about cyber security.
+    - All employees are required to do an induction web training module. The
+    module includes basic instructions about cyber security.
 
 # CAPSTONE-PROJECT-SOLUTION: RECOMMENDATIONS:
 The following are a set of recommendation based on the NIST assessment that you
@@ -91,7 +91,7 @@ conducted.
 The recommendations should be prioritised in order of importance.
 ## Key Areas of Improvements:
     - Cyber Security Governance:
-    - Hire a Cyber security manager or a Chief informa1on security manager.
+    - Hire a Cyber security manager or a Chief information security manager.
     - Formalise cyber security roles and responsibilities. Ensure that the board of the
   directors are awareness of their information security du1es
     - Draft a comprehensive informa1on security policy. Endorse the policy by senior
