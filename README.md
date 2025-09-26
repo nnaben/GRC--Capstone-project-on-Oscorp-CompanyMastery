@@ -25,55 +25,56 @@
    - The IT team takes regular backups. Backups get tested periodically
     
  ## Vulnerability management:
-    - Oscorp have purchased Qualys vulnerability scanner.
-    - The IT team uses Qualys on an ad-hoc basis.
-    - There is no formal vulnerability management program in place.
-    - Large number of high and severe vulnerabilities reported by Qualys
+   - Oscorp have purchased Qualys vulnerability scanner.
+   - The IT team uses Qualys on an ad-hoc basis.
+   - There is no formal vulnerability management program in place.
+   - Large number of high and severe vulnerabilities reported by Qualys
     
  ## Risk management:
-    - Oscorp has a risk team that performs financial risk actvites.
-    - There is no technology or cyber risk process at Oscorp.
+   - Oscorp has a risk team that performs financial risk actvites.
+   - There is no technology or cyber risk process at Oscorp.
     
   ## Third Party Risk Management:
-    - Oscorp doesn’t perform any third-party risk management.
-    - Contracts are reviewed by procurement and finance, not IT.
+   - Oscorp doesn’t perform any third-party risk management.
+   - Contracts are reviewed by procurement and finance, not IT.
     
   ## Identity and Access Management:
-    - Oscorp uses MicrosoK Active Directory to manage users and groups
-    - There is no privileged access management solution in place
-    - Admin account password is shared with a few senior members of the IT team
-    - Access to resources is granted upon request
-    - The organisation does not use two-factor authentcation for login
-    - Complex login passwords are used
-    - Employees use a VPN soluDon to login remotely when required
+   - Oscorp uses MicrosoK Active Directory to manage users and groups
+   - There is no privileged access management solution in place
+   - Admin account password is shared with a few senior members of the IT team
+   - Access to resources is granted upon request
+   - The organisation does not use two-factor authentcation for login
+   - Complex login passwords are used
+   - Employees use a VPN soluDon to login remotely when required
     
  ## Network security:
-    - The organisation has Palo Alto Next-Gen firewalls.
-    - The firewalls have been configured by the network
-    - The firewalls get audited every year by the network team
-    - The firewalls get regular updates
-    - The IT team have up to date network diagrams. The diagrams include the cloud the environment.
-    - The network is segmented using VLANs.
+   - The organisation has Palo Alto Next-Gen firewalls.
+   - The firewalls have been configured by the network
+   - The firewalls get audited every year by the network team
+   - The firewalls get regular updates
+   - The IT team have up to date network diagrams. The diagrams include the cloud the environment.
+   - The network is segmented using VLANs.
     
   ## Physical Security:
-    - Oscorp is a highly secure facility, with state-of-the-art CCTV cameras everywhere
-    - Oscorp takes physical security very seriously
-    - They do extensive vetting for all their employees
-    - The have a 24/7 monitoring for their research labs and physical facilities
+   - Oscorp is a highly secure facility, with state-of-the-art CCTV cameras everywhere
+   - Oscorp takes physical security very seriously
+   - They do extensive vetting for all their employees
+   - The have a 24/7 monitoring for their research labs and physical facilities
     
   ## Data Security:
-    - Oscorp doesn’t have a DLP solution
-    - All data resides in Microsoft Azure cloud and Microsoft Office 365
-    - Key critical application is a SaaS service from Horizon Labs.
+   - Oscorp doesn’t have a DLP solution
+   - All data resides in Microsoft Azure cloud and Microsoft Office 365
+   - Key critical application is a SaaS service from Horizon Labs.
     
   ## Policy:
-    - There is one generic IT policy in place
-    - No formal information security policy
-    - There is no data governance policies or information classification
+   - There is one generic IT policy in place
+   - No formal information security policy
+   - There is no data governance policies or information classification
+     
   ## Cyber Security detection and response:
-    - There is no detection or response capability
-    - The IT team responds to alerts from the anD-virus (Microsoft Defender)
-    - No SIEM in place
+   - There is no detection or response capability
+   - The IT team responds to alerts from the anD-virus (Microsoft Defender)
+  - No SIEM in place
   ## Security Education and Awareness:
     - All employees are required to do an induction web training module. The
     module includes basic instructions about cyber security.
