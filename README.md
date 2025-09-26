@@ -78,7 +78,7 @@
   ## Security Education and Awareness:
    - All employees are required to do an induction web training module. The module includes basic instructions about cyber security.
 
-# CAPSTONE-PROJECT-SOLUTION: RECOMMENDATIONS:
+# CAPSTONE-PROJECT: RECOMMENDATIONS:
 The following are a set of recommendation based on the NIST assessment that you
 conducted.
 The recommendations should be prioritised in order of importance.
