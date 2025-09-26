@@ -2,9 +2,9 @@
 ## Assessment And Findings:
 
 ## Current Oscorp cyber security team:
- ** Cyber security analyst**: generally, responds to cyber incidents as they come and reports
+ **Cyber security analyst**: generally, responds to cyber incidents as they come and reports
   to Oscorp’s IT manager.
- ** Network engineer**: manages the firewalls and reports to the Network Team Leader.
+ **Network engineer**: manages the firewalls and reports to the Network Team Leader.
   **Cyber Security Consultant**: My new role in Oscorp. I will initially report to the IT
   manager.
   
