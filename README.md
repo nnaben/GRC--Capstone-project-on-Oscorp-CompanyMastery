@@ -39,26 +39,24 @@
     - Contracts are reviewed by procurement and finance, not IT.
     
   ## Identity and Access Management:
-    -   Oscorp uses MicrosoK Active Directory to manage users and groups
-    -   There is no privileged access management solution in place
-    -   Admin account password is shared with a few senior members of the IT team
-    -   Access to resources is granted upon request
-    -   The organisation does not use two-factor authentcation for login
-    -   Complex login passwords are used
-    -   Employees use a VPN soluDon to login remotely when required
+    - Oscorp uses MicrosoK Active Directory to manage users and groups
+    - There is no privileged access management solution in place
+    - Admin account password is shared with a few senior members of the IT team
+    - Access to resources is granted upon request
+    - The organisation does not use two-factor authentcation for login
+    - Complex login passwords are used
+    - Employees use a VPN soluDon to login remotely when required
     
  ## Network security:
-    -  The organisation has Palo Alto Next-Gen firewalls.
-    -  The firewalls have been configured by the network
-    -  The firewalls get audited every year by the network team
-    -  The firewalls get regular updates
-    -  The IT team have up to date network diagrams. The diagrams include the
-    cloud the environment.
-    -  The network is segmented using VLANs.
+    - The organisation has Palo Alto Next-Gen firewalls.
+    - The firewalls have been configured by the network
+    - The firewalls get audited every year by the network team
+    - The firewalls get regular updates
+    - The IT team have up to date network diagrams. The diagrams include the cloud the environment.
+    - The network is segmented using VLANs.
     
   ## Physical Security:
-    - Oscorp is a highly secure facility, with state-of-the-art CCTV cameras
-    everywhere
+    - Oscorp is a highly secure facility, with state-of-the-art CCTV cameras everywhere
     - Oscorp takes physical security very seriously
     - They do extensive vetting for all their employees
     - The have a 24/7 monitoring for their research labs and physical facilities
