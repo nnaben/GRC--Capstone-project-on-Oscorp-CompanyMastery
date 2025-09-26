@@ -9,23 +9,20 @@
   manager.
   
 ## Oscorp Current Cyber Security Controls:
-**  Organisational governance:**  
-- CEO has a clear business strategy for the business. However, roles and responsibilities for cyber security haven’t been defined. They’re assigned to     the IT team. There is no cyber security strategy.
+**Organisational governance:**  
+  - CEO has a clear business strategy for the business. However, roles and responsibilities for cyber security haven’t been defined. They’re assigned to     the IT team. There is no cyber security strategy.
     
 ## Asset Management:
    - The IT team has a spreadsheet with serial numbers of laptops.
-   - The spreadsheet includes the model of each machine and details about the
-    warranty.
-   - Oscorp uses Microsoft Office365 and relies exclusively on Software-as-a-
-    Service applications.
+   - The spreadsheet includes the model of each machine and details about the warranty.
+   - Oscorp uses Microsoft Office365 and relies exclusively on Software-as-a-Service applications.
    - All data is in Microsoft Azure cloud
-   - The IT team uses a Secure Operating Environment (SOE) to image all their
-    laptops with the latest Windows desktop version
+   - The IT team uses a Secure Operating Environment (SOE) to image all their laptops with the latest Windows desktop version
     
  ## Business Contnnuity and Disaster Recovery:
-    - The IT team conducts regular disaster recovery testing
-    - The IT team has clear and documented business continuity plans
-    - The IT team takes regular backups. Backups get tested periodically
+   - The IT team conducts regular disaster recovery testing
+   - The IT team has clear and documented business continuity plans
+   - The IT team takes regular backups. Backups get tested periodically
     
  ## Vulnerability management:
     - Oscorp have purchased Qualys vulnerability scanner.
