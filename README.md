@@ -9,10 +9,8 @@
   manager.
   
 ## Oscorp Current Cyber Security Controls:
-  Organisational governance:
-  - CEO has a clear business strategy for the business. However, roles and
-    responsibilities for cyber security haven’t been defined. They’re assigned to
-    the IT team. There is no cyber security strategy.
+**  Organisational governance:**  
+- CEO has a clear business strategy for the business. However, roles and responsibilities for cyber security haven’t been defined. They’re assigned to     the IT team. There is no cyber security strategy.
     
 ## Asset Management:
    - The IT team has a spreadsheet with serial numbers of laptops.
